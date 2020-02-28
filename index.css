@@ -1,0 +1,14 @@
+*{
+   box-sizing: border-box;
+}
+
+
+
+label {
+    display: block;
+    padding: 8px;
+}
+
+.hidden {
+    display: none;
+}
